@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\controllers\\citasmedicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:controllers\\citasmedicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\dto\u00B4s\\citasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\citasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\dto\u00B4s\\createcitasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\createcitasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\DoctoresDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DTO\u00B4s\\DoctoresDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\dto\u00B4s\\updateusuariosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\updateusuariosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\views\\pacientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:views\\pacientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\dto\u00B4s\\createpacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\createpacientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\views\\pacientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:views\\pacientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:views\\pacientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\views\\pacientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:views\\pacientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\models\\citasmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\citasmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\models\\campuscarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\campuscarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\models\\informacionesmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\informacionesmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\dto\u00B4s\\pacientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\pacientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\models\\doctores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\doctores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\dto\u00B4s\\serviciosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\serviciosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\campuscareapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:campuscareapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\campuscareapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:campuscareapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\campuscareapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:campuscareapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\canpuscareapi\\campuscareapi\\dto\u00B4s\\tipoconsultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\tipoconsultadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctoresDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\DoctoresDTO.cs",
+              "RelativeDocumentMoniker": "DTO\u00B4s\\DoctoresDTO.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\DoctoresDTO.cs",
+              "RelativeToolTip": "DTO\u00B4s\\DoctoresDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:13:07.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateUsuariosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\UpdateUsuariosDTO.cs",
+              "RelativeDocumentMoniker": "DTO\u00B4s\\UpdateUsuariosDTO.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\UpdateUsuariosDTO.cs",
+              "RelativeToolTip": "DTO\u00B4s\\UpdateUsuariosDTO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA4wBMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T17:21:09.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T09:10:39.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Details.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T09:10:16.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Delete.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T09:10:07.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Edit.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T09:07:57.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pacientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Pacientes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Pacientes\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T09:07:10.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InformacionesMedica.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\InformacionesMedica.cs",
+              "RelativeDocumentMoniker": "Models\\InformacionesMedica.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\InformacionesMedica.cs",
+              "RelativeToolTip": "Models\\InformacionesMedica.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T09:05:22.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\Paciente.cs",
+              "RelativeToolTip": "Models\\Paciente.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:09:33.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Doctores.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\Doctores.cs",
+              "RelativeDocumentMoniker": "Models\\Doctores.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\Doctores.cs",
+              "RelativeToolTip": "Models\\Doctores.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:08:57.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Controllers\\PacientesController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowCUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T14:50:08.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CampusCareContext.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\CampusCareContext.cs",
+              "RelativeDocumentMoniker": "Models\\CampusCareContext.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\CampusCareContext.cs",
+              "RelativeToolTip": "Models\\CampusCareContext.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAG4AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:20:55.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "campusCareAPI",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\campusCareAPI.csproj",
+              "RelativeDocumentMoniker": "campusCareAPI.csproj",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\campusCareAPI.csproj",
+              "RelativeToolTip": "campusCareAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T05:20:20.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T05:20:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "campusCareAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\campusCareAPI.csproj",
+              "RelativeDocumentMoniker": "campusCareAPI.csproj",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\campusCareAPI.csproj",
+              "RelativeToolTip": "campusCareAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T05:11:24.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T05:11:00.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "campusCareAPI.http",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\campusCareAPI.http",
+              "RelativeDocumentMoniker": "campusCareAPI.http",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\campusCareAPI.http",
+              "RelativeToolTip": "campusCareAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-10T18:44:58.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T18:44:49.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T18:44:22.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PacientesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\PacientesDTO.cs",
+              "RelativeDocumentMoniker": "DTO\u00B4s\\PacientesDTO.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\PacientesDTO.cs",
+              "RelativeToolTip": "DTO\u00B4s\\PacientesDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA5wA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T17:00:36.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitasMedicasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\CitasMedicasDTO.cs",
+              "RelativeDocumentMoniker": "DTO\u00B4s\\CitasMedicasDTO.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\CitasMedicasDTO.cs",
+              "RelativeToolTip": "DTO\u00B4s\\CitasMedicasDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:56:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiciosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\ServiciosDTO.cs",
+              "RelativeDocumentMoniker": "DTO\u00B4s\\ServiciosDTO.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\ServiciosDTO.cs",
+              "RelativeToolTip": "DTO\u00B4s\\ServiciosDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:32:13.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatePacienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\CreatePacienteDTO.cs",
+              "RelativeDocumentMoniker": "DTO\u00B4s\\CreatePacienteDTO.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\CreatePacienteDTO.cs",
+              "RelativeToolTip": "DTO\u00B4s\\CreatePacienteDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA9wBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:30:47.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateCitasMedicasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\CreateCitasMedicasDTO.cs",
+              "RelativeDocumentMoniker": "DTO\u00B4s\\CreateCitasMedicasDTO.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\CreateCitasMedicasDTO.cs",
+              "RelativeToolTip": "DTO\u00B4s\\CreateCitasMedicasDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:30:35.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TipoConsultaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\TipoConsultaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\u00B4s\\TipoConsultaDTO.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\DTO\u00B4s\\TipoConsultaDTO.cs",
+              "RelativeToolTip": "DTO\u00B4s\\TipoConsultaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:14:35.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CitasMedica.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\CitasMedica.cs",
+              "RelativeDocumentMoniker": "Models\\CitasMedica.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Models\\CitasMedica.cs",
+              "RelativeToolTip": "Models\\CitasMedica.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAApwBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:05:32.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CitasMedicasController.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Controllers\\CitasMedicasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitasMedicasController.cs",
+              "ToolTip": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\Controllers\\CitasMedicasController.cs",
+              "RelativeToolTip": "Controllers\\CitasMedicasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T01:59:31.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
