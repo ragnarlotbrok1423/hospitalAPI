@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using campusCareAPI.Models;
 using System.Runtime.InteropServices;
+using campusCareAPI.DTO_s;
 
 namespace campusCareAPI.Controllers
 {
@@ -20,6 +21,22 @@ namespace campusCareAPI.Controllers
         public PacientesController(CampusCareContext context)
         {
             _context = context;
+        }
+        [HttpPost("login")]
+        public IActionResult Login([FromBody] LoginPacientDTO loginPacientDTO)
+        {
+            var pacientes = _context.Pacientes
+                 .FirstOrDefault(u => u.NombreUsuario == loginPacientDTO.NombreUsuario);
+
+            if (pacientes == null)
+            {
+                return Unauthorized("Usuario no registrado");
+            }
+            if (pacientes.Contraseña != loginPacientDTO.Contraseña)
+            {
+                return Unauthorized("Contraseña incorrecta");
+            }
+            return Ok(pacientes.IdUsuarios);
         }
 
         // GET: api/Usuarios

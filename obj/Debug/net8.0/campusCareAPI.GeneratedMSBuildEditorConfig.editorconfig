@@ -17,35 +17,35 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = campusCareAPI
 build_property.RootNamespace = campusCareAPI
-build_property.ProjectDir = C:\Users\erick\Downloads\canpusCareAPI\campusCareAPI\
+build_property.ProjectDir = C:\Users\erick\Downloads\hospitalAPI\hospitalAPI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\erick\Downloads\canpusCareAPI\campusCareAPI
+build_property.MSBuildProjectDirectory = C:\Users\erick\Downloads\hospitalAPI\hospitalAPI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/erick/Downloads/canpusCareAPI/campusCareAPI/Views/Pacientes/Create.cshtml]
+[C:/Users/erick/Downloads/hospitalAPI/hospitalAPI/Views/Pacientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/erick/Downloads/canpusCareAPI/campusCareAPI/Views/Pacientes/Delete.cshtml]
+[C:/Users/erick/Downloads/hospitalAPI/hospitalAPI/Views/Pacientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/erick/Downloads/canpusCareAPI/campusCareAPI/Views/Pacientes/Details.cshtml]
+[C:/Users/erick/Downloads/hospitalAPI/hospitalAPI/Views/Pacientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/erick/Downloads/canpusCareAPI/campusCareAPI/Views/Pacientes/Edit.cshtml]
+[C:/Users/erick/Downloads/hospitalAPI/hospitalAPI/Views/Pacientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/erick/Downloads/canpusCareAPI/campusCareAPI/Views/Pacientes/Index.cshtml]
+[C:/Users/erick/Downloads/hospitalAPI/hospitalAPI/Views/Pacientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/erick/Downloads/canpusCareAPI/campusCareAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/erick/Downloads/hospitalAPI/hospitalAPI/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

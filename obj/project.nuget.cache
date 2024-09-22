@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jaNocif+QV4=",
+  "dgSpecHash": "6hxNy/B4cUs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Downloads\\canpusCareAPI\\campusCareAPI\\campusCareAPI.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\campusCareAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erick\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\erick\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
