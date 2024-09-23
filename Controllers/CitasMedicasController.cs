@@ -55,7 +55,7 @@ namespace campusCareAPI.Controllers
                         Cedula = C.PacienteNavigation.Cedula,
                         NombreUsuario = C.PacienteNavigation.NombreUsuario
                     },
-                    
+
                     Doctores = new DTO_s.DoctoresDTO
                     {
                         NombreCompleto = C.DoctorNavigation.NombreCompleto,
@@ -126,6 +126,11 @@ namespace campusCareAPI.Controllers
             {
                 return BadRequest("El usuario no existe");
             }
+            var doctor = await _context.Doctores.FirstOrDefaultAsync(c => c.IdDoctores == citasMedicasDTO.IdDoctor);
+            if (doctor == null)
+            {
+                return BadRequest("El doctor no existe");
+            }
             var servicios = new Servicio
             {
                 CertificadoBuenaSalud = citasMedicasDTO.CertificadoBuenaSalud,
@@ -150,8 +155,10 @@ namespace campusCareAPI.Controllers
                 Fecha = citasMedicasDTO.Fecha,
                 Servicio = servicios.Idservicios,
                 TipoConsulta = tipoConsulta.IdtiposConsultas,
-                Paciente = usuario.IdUsuarios
+                Paciente = usuario.IdUsuarios,
+                Doctor = doctor.IdDoctores
             };
+
             _context.CitasMedicas.Add(citasMedica);
             await _context.SaveChangesAsync();
             return Ok(citasMedica);

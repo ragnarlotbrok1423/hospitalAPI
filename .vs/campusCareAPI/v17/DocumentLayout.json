@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\controllers\\citasmedicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:controllers\\citasmedicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\models\\citasmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\citasmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\dto\u00B4s\\createcitasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\createcitasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\dto\u00B4s\\citasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\citasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\models\\campuscarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\campuscarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\dto\u00B4s\\loginpacientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,18 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\dto\u00B4s\\pacientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\pacientesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\controllers\\citasmedicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:controllers\\citasmedicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\dto\u00B4s\\citasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\citasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\dto\u00B4s\\createcitasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\createcitasmedicasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\dto\u00B4s\\updateusuariosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,14 +75,6 @@
       "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:views\\pacientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\models\\citasmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\citasmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\models\\campuscarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\campuscarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\models\\informacionesmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:models\\informacionesmedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,16 +87,8 @@
       "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:dto\u00B4s\\serviciosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A8EA70EE-E600-4474-B694-E24F05C0B51B}|campusCareAPI.csproj|c:\\users\\erick\\downloads\\hospitalapi\\hospitalapi\\campuscareapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -122,11 +122,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 210,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "LoginPacientDTO.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\DTO\u00B4s\\LoginPacientDTO.cs",
               "RelativeDocumentMoniker": "DTO\u00B4s\\LoginPacientDTO.cs",
@@ -150,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "UpdateUsuariosDTO.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\DTO\u00B4s\\UpdateUsuariosDTO.cs",
               "RelativeDocumentMoniker": "DTO\u00B4s\\UpdateUsuariosDTO.cs",
@@ -162,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Views\\Pacientes\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Pacientes\\Index.cshtml",
@@ -174,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Views\\Pacientes\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Pacientes\\Details.cshtml",
@@ -186,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Views\\Pacientes\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Pacientes\\Delete.cshtml",
@@ -198,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Views\\Pacientes\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Pacientes\\Edit.cshtml",
@@ -210,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Views\\Pacientes\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Pacientes\\Create.cshtml",
@@ -222,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "InformacionesMedica.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Models\\InformacionesMedica.cs",
               "RelativeDocumentMoniker": "Models\\InformacionesMedica.cs",
@@ -234,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Paciente.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Models\\Paciente.cs",
               "RelativeDocumentMoniker": "Models\\Paciente.cs",
@@ -246,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Doctores.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Models\\Doctores.cs",
               "RelativeDocumentMoniker": "Models\\Doctores.cs",
@@ -258,28 +258,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PacientesController.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Controllers\\PacientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
               "ToolTip": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Controllers\\PacientesController.cs",
               "RelativeToolTip": "Controllers\\PacientesController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAswBYAAAAfAAAA",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAmwB8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T14:50:08.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 7,
               "Title": "CampusCareContext.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Models\\CampusCareContext.cs",
               "RelativeDocumentMoniker": "Models\\CampusCareContext.cs",
               "ToolTip": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Models\\CampusCareContext.cs",
               "RelativeToolTip": "Models\\CampusCareContext.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAAAG4AAABWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T05:20:55.032Z"
+              "WhenOpened": "2024-09-11T05:20:55.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -318,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -326,7 +327,8 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-11T05:11:00.54Z"
+              "WhenOpened": "2024-09-11T05:11:00.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -342,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -354,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -362,11 +364,12 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-10T18:44:22.587Z"
+              "WhenOpened": "2024-09-10T18:44:22.587Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "PacientesDTO.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\DTO\u00B4s\\PacientesDTO.cs",
               "RelativeDocumentMoniker": "DTO\u00B4s\\PacientesDTO.cs",
@@ -384,13 +387,14 @@
               "RelativeDocumentMoniker": "DTO\u00B4s\\CitasMedicasDTO.cs",
               "ToolTip": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\DTO\u00B4s\\CitasMedicasDTO.cs",
               "RelativeToolTip": "DTO\u00B4s\\CitasMedicasDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T03:56:54.404Z"
+              "WhenOpened": "2024-09-10T03:56:54.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "ServiciosDTO.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\DTO\u00B4s\\ServiciosDTO.cs",
               "RelativeDocumentMoniker": "DTO\u00B4s\\ServiciosDTO.cs",
@@ -402,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "CreatePacienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\DTO\u00B4s\\CreatePacienteDTO.cs",
               "RelativeDocumentMoniker": "DTO\u00B4s\\CreatePacienteDTO.cs",
@@ -414,15 +418,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CreateCitasMedicasDTO.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\DTO\u00B4s\\CreateCitasMedicasDTO.cs",
               "RelativeDocumentMoniker": "DTO\u00B4s\\CreateCitasMedicasDTO.cs",
               "ToolTip": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\DTO\u00B4s\\CreateCitasMedicasDTO.cs",
               "RelativeToolTip": "DTO\u00B4s\\CreateCitasMedicasDTO.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAiwAgAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T02:30:35.335Z"
+              "WhenOpened": "2024-09-10T02:30:35.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -438,27 +443,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "CitasMedica.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Models\\CitasMedica.cs",
               "RelativeDocumentMoniker": "Models\\CitasMedica.cs",
               "ToolTip": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Models\\CitasMedica.cs",
               "RelativeToolTip": "Models\\CitasMedica.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAApwBUAAAAbAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAIAwwBUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T02:05:32.251Z"
+              "WhenOpened": "2024-09-10T02:05:32.251Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CitasMedicasController.cs",
               "DocumentMoniker": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Controllers\\CitasMedicasController.cs",
               "RelativeDocumentMoniker": "Controllers\\CitasMedicasController.cs",
               "ToolTip": "C:\\Users\\erick\\Downloads\\hospitalAPI\\hospitalAPI\\Controllers\\CitasMedicasController.cs",
               "RelativeToolTip": "Controllers\\CitasMedicasController.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAowBgAAAAgAAAA",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAcwJ4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T01:59:31.344Z"
+              "WhenOpened": "2024-09-10T01:59:31.344Z",
+              "EditorCaption": ""
             }
           ]
         }
